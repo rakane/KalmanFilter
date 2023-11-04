@@ -69,7 +69,7 @@ void run3DExample()
     std::mt19937 gen(rd());
 
     // INPUTS
-    const unsigned int NUM_ITERATIONS = 10000;
+    const unsigned int NUM_ITERATIONS = 20;
     const double TRUTH_INITIAL_POS_X = 0.0;
     const double TRUTH_INITIAL_POS_Y = 500.0;
     const double TRUTH_INITIAL_POS_Z = 1000.0;

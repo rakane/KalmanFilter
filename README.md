@@ -6,6 +6,10 @@
 - [Kalman Filter Wikipedia](https://en.wikipedia.org/wiki/Kalman_filter)
 - [LU Decomposition](https://en.wikipedia.org/wiki/LU_decomposition)
 
+## Example Plot for a 3D constant acceleration model
+
+![Example Plot](example/example_plot.png)
+
 ## Kalman Filter Usage
 
 The Kalman Filter library can use N dimensions and either a constant velocity or constant acceleration model. This is configured using the template parameters. A short example is show below, and a more complete example can be found in the [example](example) directory.
